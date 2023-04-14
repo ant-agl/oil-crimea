@@ -15122,6 +15122,7 @@ img:not([src]) {
   font-size: 24px;
   font-weight: bold;
   z-index: 2;
+  cursor: pointer;
 }
 
 .prev-slide {
@@ -15161,3 +15162,5 @@ img:not([src]) {
     height: 300px;
   }
 }
+
+
